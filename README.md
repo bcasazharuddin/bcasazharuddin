@@ -1,6 +1,6 @@
-<h1 >Hi 👋, I'm Mohd Azharuddin</h1>
-<h3>Hi, I'm Mohd Azharuddin, a Full Stack Developer 🚀 from Delhi, India 🇮🇳. I'm interested in solving real world problems using the technologies present out there .</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif"/>
+### <h2>Hi there <img height="50" alt="GIF" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/hello.gif" />, I'm [Mohd Azharuddin!](https://github.com/bcasazharuddin) </h2>
+<p>Hi, I'm Mohd Azharuddin, a Full Stack Developer 🚀 from Delhi, India 🇮🇳. I'm interested in solving real world problems using the technologies present out there.</p>
+<img align="right" alt="coding" width="400" src="https://github.com/bcasazharuddin/bcasazharuddin/blob/main/image/logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcasazharuddin&label=Profile%20views&color=0e75b6&style=flat" alt="bcasazharuddin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohdazh87051317" target="blank"><img src="https://img.shields.io/twitter/follow/mohdazh87051317?logo=twitter&style=for-the-badge" alt="mohdazh87051317" /></a> </p>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bcasazharuddin&show_icons=true&locale=en" alt="bcasazharuddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bcasazharuddin&" alt="bcasazharuddin" /></p>
-
